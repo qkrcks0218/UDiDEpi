@@ -1,4 +1,4 @@
-# Replication Files for Universal Difference-in-Differences for Causal Inference in Epidemiology (Tchetgen Tchetgen, Park, Richardson, 2023+) 
+# Replication Files for Universal Difference-in-Differences for Causal Inference in Epidemiology (Tchetgen Tchetgen, Park, Richardson, _Epidemiology_, 2023+) 
 
 This Github repository contains replication files for [Universal Difference-in-Differences (UDiD) for Causal Inference in Epidemiology (Tchetgen Tchetgen, Park, Richardson, 2023)](https://arxiv.org/abs/2302.00840 "UDiD").
 
@@ -22,4 +22,4 @@ See [Taddeo, Amorim, Aquino (2022)](https://www.intlpress.com/site/pub/pages/jou
 
 Taddeo, Amorim, Aquino (2022) **Causal Measures Using Generalized Difference-in-difference Approach with Nonlinear Models**, _Statistics and Its Interface_, 15(4):399-413 [[link](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0004/a001/index.php?mode=ns "ZB")]
 
-Tchetgen Tchetgen, Park, Richardson (2023) **Universal Difference-in-Differences for Causal Inference in Epidemiology**, _arXiv:2302.00840_ [[link](https://arxiv.org/abs/2302.00840 "UDiD")]
+Tchetgen Tchetgen, Park, Richardson (2023+) **Universal Difference-in-Differences for Causal Inference in Epidemiology**, _Epidemiology (In Press)_ [[arXiv link](https://arxiv.org/abs/2302.00840 "UDiD")]
